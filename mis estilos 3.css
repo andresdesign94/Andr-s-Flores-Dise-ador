@@ -1,0 +1,180 @@
+body{
+
+    background-image: url(./blurred-silhouette-business-man.jpg);
+    background-size: cover;
+
+
+}
+
+.rectangulo{
+   display: flex;
+   justify-content: space-around;
+   background-color: #BA1B1B;
+   height: 100px;
+   width: 1350px;
+
+}
+
+.logo{
+
+    height: 90px;
+    width: 90px;
+
+}
+
+.logo{
+    margin-top: 5px;
+}
+
+.nombre{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+.Profesion{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+
+.Portafolio{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+}
+
+.Contacto{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+}
+.contenedor1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.cuadro1{
+    width: 300px;
+    background-color: #BA1B1B;
+    margin-top: 10px;
+    padding: 10px;
+}
+.texto1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor2{
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.cuadro2{
+
+    width: 300px;
+    background-color: #BA1B1B;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.texto2{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.contenedor3{
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+
+}
+.cuadro3{
+    width: 300px;
+    background-color: #BA1B1B;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.texto3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor5{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.cuadro5{
+    width: 300px;
+    background-color: #BA1B1B;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.texto5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor4{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.cuadro4{
+    width: 300px;
+    background-color: #BA1B1B;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.texto4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    color: #fff;
+    text-align: end;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+}

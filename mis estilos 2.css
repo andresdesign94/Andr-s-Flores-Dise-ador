@@ -1,0 +1,185 @@
+body{
+
+    background-image: url(./blurred-silhouette-business-man.jpg);
+    background-size: cover;
+
+
+}
+
+.rectangulo{
+   display: flex;
+   justify-content: space-around;
+   background-color: #BA1B1B;
+   height: 100px;
+   width: 1350px;
+
+}
+
+.logo{
+
+    height: 90px;
+    width: 90px;
+
+}
+
+.logo{
+    margin-top: 5px;
+}
+
+.nombre{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+.Profesion{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+
+.Portafolio{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+}
+
+.Contacto{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+
+}
+
+.imagen1{
+
+   width: 280px;
+
+}
+
+.imagendos{
+
+    height: 280px;
+
+}
+.volantes{
+    
+    display: flexbox;
+    justify-content: space-around;
+    
+}
+
+.tarjetas{
+    
+    display: flexbox;
+    justify-content: space-around;
+
+}
+
+.tarjeta1{
+
+    height: 295px;
+}
+
+.papeleria{
+    
+    display: flexbox;
+    justify-content: space-around;
+
+}
+
+.membrete{
+
+    width: 200px;
+}
+
+.talonario {
+
+    width: 200px;
+}
+
+.logotipia{
+
+    display: flexbox;
+    justify-content: space-around;
+
+}
+
+.NYX{
+
+    width: 300px;
+
+}
+.bisuteria{
+
+    width: 300px;
+}
+
+
+.arriba{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.abajo{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.h2v{
+
+    background-color: #BA1B1B;
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.h2p{
+
+    background-color: #BA1B1B;
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.h2t{
+
+    background-color: #BA1B1B;
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.h2le{
+
+    background-color: #BA1B1B;
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.footer {
+    color: #fff;
+    text-align: end;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+}

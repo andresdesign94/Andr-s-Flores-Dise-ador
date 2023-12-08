@@ -1,0 +1,126 @@
+body{
+
+    background-image: url(./blurred-silhouette-business-man.jpg);
+    background-size: cover;
+
+
+}
+
+.rectangulo{
+   display: flex;
+   justify-content: space-around;
+   background-color: #BA1B1B;
+   height: 100px;
+   width: 1350px;
+
+}
+
+.logo{
+
+    height: 90px;
+    width: 90px;
+
+}
+
+.logo{
+    margin-top: 5px;
+}
+
+.nombre{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+.Profesion{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+
+.Portafolio{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+}
+
+.Contacto{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
+
+}
+
+.info2{
+
+  
+    height: 300 px;
+    width: 500 px;
+    background-color: blue;
+    display: flexbox;
+    justify-content: flex-end;
+}
+
+.info3{
+
+    height: 300 px;
+    width: 500px;
+    background-color: blue;
+    display: flexbox;
+    justify-content: flex-end;
+}
+.contenedor2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.cuadro2{
+    width: 400px;
+    height: 150px;
+    background-color: #BA1B1B;
+    margin-top: 250px;
+    padding: 20px;
+}
+
+.texto2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    text-align-last: left;
+}
+.contenedor1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.cuadro1{
+    width: 400px;
+    height: 200px;
+    background-color: #BA1B1B;
+    padding: 20px;
+}
+.texto1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    text-align-last: left;
+}
+
+.footer {
+    color: #fff;
+    text-align: end;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+}
